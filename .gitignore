@@ -1,0 +1,4 @@
+# Public portfolio: deny all files unless explicitly listed below.
+/*
+!/.gitignore
+!/README.md
