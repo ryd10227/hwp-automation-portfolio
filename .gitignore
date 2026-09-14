@@ -2,3 +2,8 @@
 /*
 !/.gitignore
 !/README.md
+!/assets/
+/assets/*
+!/assets/01-upload.jpg
+!/assets/02-review.jpg
+!/assets/03-metadata.jpg
